@@ -1,7 +1,7 @@
 # WoWAddonUpdaterV2
 lightweight Updater for WoW-Addons
 
-1) Edit the 'config'-file:
+1) Edit the 'config.ini'-file:
      WoW Addon Location = D:\Games\World of Warcraft\Interface\Addons
          Path to your World of Warcraft\Interface\Addons folder
          
