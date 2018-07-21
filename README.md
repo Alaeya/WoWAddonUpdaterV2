@@ -1,6 +1,10 @@
 # WoWAddonUpdaterV2
 lightweight Updater for WoW-Addons
 
+0) You need Python 3.6 (programming language like C#, Java, etc.) to run this programm.
+   Download and install Python here:
+   https://www.python.org/downloads/release/python-366/
+
 1) Edit the 'config.ini'-file:
      WoW Addon Location = D:\Games\World of Warcraft\Interface\Addons
          Path to your World of Warcraft\Interface\Addons folder
