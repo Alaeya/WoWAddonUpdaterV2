@@ -1,0 +1,5 @@
+#Following sites are supported as links:
+#https://www.curseforge.com/wow/addons/
+#https://wow.curseforge.com/projects/
+#https://www.tukui.org/download.php?ui=
+#
